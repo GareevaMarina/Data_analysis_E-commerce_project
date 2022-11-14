@@ -1,6 +1,3 @@
-# E-commerce-project
-Sales analysis, rfm-segmentation of customers, cohort analysis
-
 ## Дана некоторая платформа онлайн продаж, с которой выгружены следующие данные:
  * уникальные идентификаторы пользователей
  * заказы
